@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"2640052000002517341",
+		"product_id":"736430079244622918",
+		"client_id":"443717675370153088",
+		"client_secret":"412AA9A833CCFEB2CCEAFAE3C6D704608A2F571A83D27320CF6DEE1662FE3DC9",
+		"app_id":"102839067",
+		"package_name":"com.hms.demo.appauthhuawei",
+		"api_key":"CgB6e3x9aifL7ogPhQ7hDAPx0TdCRF53Ju/aIH79hkCb+FCSBc1jsKizB39HbO/gM2GRrMt/50F2LwwNoKmygq4D"
+	},
+	"configuration_version":"1.0"
+}
